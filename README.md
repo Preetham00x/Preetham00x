@@ -9,7 +9,7 @@ I build, break, fix, and rebuild stuff — that’s how I learn.
 
 🤝 Passionate about teamwork, tech coordination, and organizing awareness initiatives
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on react <br> I’m looking to collaborate <br><br>🌱 I’m currently learning MERN<br>
 
 
 ## 🌐 Socials:
