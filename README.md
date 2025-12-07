@@ -8,8 +8,8 @@ I build, break, fix, and rebuild stuff — that’s how I learn.
 🎨 I also animate, design, and create 3D visuals using Blender and Adobe tools like After Effects, Photoshop, and Illustrator
 
 🤝 Passionate about teamwork, tech coordination, and organizing awareness initiatives
-# 💫 About Me:
-nothing special just ur cool neighbour
+#  About Me:
+nothing much special just ur cool neighbour
 
 
 ## 🌐 Socials:
