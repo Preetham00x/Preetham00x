@@ -9,7 +9,7 @@ I build, break, fix, and rebuild stuff — that’s how I learn.
 
 🤝 Passionate about teamwork, tech coordination, and organizing awareness initiatives
 #  About Me:
-nothing much  just ur cool neighbour
+nothing much  just ur cool neighbour.
 
 
 ## 🌐 Socials:
