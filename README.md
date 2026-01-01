@@ -9,8 +9,7 @@ I build, break, fix, and rebuild stuff — that’s how I learn.
 
 🤝 Passionate about teamwork, tech coordination, and organizing awareness initiatives
 #  About Me:
-nothing just ur cool neighbour.
-
+nothing just ur cool neighbour
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prxxtham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Preetham P](https://www.linkedin.com/in/preetham-p-210564348/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetham2006@outlook.com) <br>protfolio:(!https://preethamp-portfolio.vercel.app/)
