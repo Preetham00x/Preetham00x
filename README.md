@@ -8,7 +8,7 @@ I build, break, fix, and rebuild stuff — that’s how I learn.
 🎨 I also animate, design, and create 3D visuals using Blender and Adobe tools like After Effects, Photoshop, and Illustrator
 
 🤝 Passionate about teamwork, tech coordination, and organizing awareness initiatives
-#  About Me:
+#  About Me:-
 nothing just ur cool neighbour
 
 ## 🌐 Socials:
