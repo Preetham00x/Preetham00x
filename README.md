@@ -31,11 +31,22 @@ Building APIs, fixing bugs, and I hate NullPointerException.
 <br>
 <br>
 
-  <p align="right">
-  <img src="https://github.com/user-attachments/assets/6c8af806-17c2-48ae-b80e-4ef318b9d11d" alt="Animation" width="200"/>
-</p>
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Preetham00x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+<tr>
+<td align="center" valign="middle">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Preetham00x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="420"/>
+</td>
+
+<td align="center" valign="middle">
+<img src="https://github.com/user-attachments/assets/6c8af806-17c2-48ae-b80e-4ef318b9d11d" width="420"/>
+</td>
+</tr>
+</table>
+
+</div>
+  
 <br>
 <br>
 
