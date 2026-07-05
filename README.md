@@ -1,15 +1,16 @@
-Hey there 👋 I’m Preetham, an IT undergrad who loves turning ideas into real, working products.
-I build, break, fix, and rebuild stuff — that’s how I learn.
+<div align="center">
+  
+![Preetham's GitHub stats](https://github-stats-extended.vercel.app/api?username=Preetham00x&show_icons=true&theme=transparent)
 
-🎓 B.Tech IT student with a strong interest in Full-Stack Web Development
+</div>
 
-💻 Skilled in Java, JavaScript, and modern web frameworks
+Hey I’m Preetham.
+backend systems, java, and spring boot. always building.
 
-🎨 I also animate, design, and create 3D visuals using Blender and Adobe tools like After Effects, Photoshop, and Illustrator
 
-🤝 Passionate about teamwork, tech coordination, and organizing awareness initiatives
 #  About Me:-
-nothing just ur cool neighbor!
+🕸️ Your Friendly Neighborhood Backend Systems Developer.
+Building APIs, fixing bugs, and using Optional class for NullPointerException.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prxxtham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Preetham P](https://www.linkedin.com/in/preetham-p-210564348/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetham2006@outlook.com) <br>protfolio:(!https://preethamp-portfolio.vercel.app/)
@@ -26,6 +27,7 @@ nothing just ur cool neighbor!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Preetham00x&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
