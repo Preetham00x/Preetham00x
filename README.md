@@ -28,5 +28,8 @@ nothing just ur cool neighbor!
 [![](https://visitcount.itsvg.in/api?id=Preetham00x&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
 ![snake gif](https://github.com/Preetham00x/Preetham00x/blob/output/github-snake-dark.svg)
+
+</div>
