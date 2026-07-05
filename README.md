@@ -31,8 +31,8 @@ Building APIs, fixing bugs, and I hate NullPointerException.
 <br>
 <br>
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c8af806-17c2-48ae-b80e-4ef318b9d11d" alt="Animation" width="500"/>
+  <p align="right">
+  <img src="https://github.com/user-attachments/assets/6c8af806-17c2-48ae-b80e-4ef318b9d11d" alt="Animation" width="200"/>
 </p>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Preetham00x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
