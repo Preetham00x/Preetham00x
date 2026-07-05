@@ -40,7 +40,7 @@ Building APIs, fixing bugs, and I hate NullPointerException.
 </td>
 
 <td align="center" valign="middle">
-<img src="https://github.com/user-attachments/assets/6c8af806-17c2-48ae-b80e-4ef318b9d11d" width="420"/>
+<img src="https://github.com/user-attachments/assets/6c8af806-17c2-48ae-b80e-4ef318b9d11d" width="300"/>
 </td>
 </tr>
 </table>
@@ -51,8 +51,6 @@ Building APIs, fixing bugs, and I hate NullPointerException.
 <br>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
