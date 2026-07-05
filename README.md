@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:39FF14,100:0FFF50&height=230&section=header&text=PREETHAM%20P&fontSize=54&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Backend%20Systems%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Spring%20AI&descAlignY=51&descAlign=50"/>
+
+
 <div align="center">
   
 ![Preetham's GitHub stats](https://github-stats-extended.vercel.app/api?username=Preetham00x&show_icons=true&theme=transparent)
@@ -49,7 +52,7 @@ Building APIs, fixing bugs, and I hate NullPointerException.
 
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:FF0000&height=130&section=footer"/>
 
 
 
