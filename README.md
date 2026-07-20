@@ -18,7 +18,7 @@ Hey I’m Preetham. <br>
  Your Friendly Neighborhood Spring Developer.
 
 
-Building APIs, fixing bugs, and I hate NullPointerException.
+Building APIs, fixing bugs, I hate ClassNotFoundException's.
 
 </div>
 
