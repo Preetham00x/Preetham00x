@@ -18,7 +18,7 @@ Hey I’m Preetham. <br>
  Your Friendly Neighborhood Spring Developer.
 
 
-Building APIs, fixing bugs, I hate ClassNotFoundException's.
+Building APIs, fixing bugs, wondering what's a proxy.
 
 </div>
 
